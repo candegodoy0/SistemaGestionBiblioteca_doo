@@ -20,10 +20,12 @@ La aplicacion desarrollada es un sistema de gestión de biblioteca, el objetivo 
 - Diagrama de actividades.  
 ![](https://drive.google.com/file/d/1Fi91Nyg-AXxIK6IswE8Bt5AHjZ2aE0uO/view?usp=sharing) 
 
+
 - Diagrama de secuencias. 
 ![](https://drive.google.com/file/d/17_DWxTJh3Cf8Ay9WeeRhck8EODbEsZwh/view?usp=sharing) 
 
 - Diagrama de clases. 
+![](https://drive.google.com/file/d/159KfCON19wDhgAQqwLIcBwW-6qxldRFb/view?usp=sharing)
 
 - Tarjetas CRC.
 ![](https://drive.google.com/file/d/1RdHk5CN6bsh85FA3l9fcaYMy0Fvh2UXV/view?usp=sharing) 
@@ -33,3 +35,4 @@ La aplicacion desarrollada es un sistema de gestión de biblioteca, el objetivo 
 
 - Escenrios de casos de uso. 
 ![](https://drive.google.com/file/d/15lHazfTZ8x05OM7ZdHhQH3BHD3d84xJZ/view?usp=sharing)
+
