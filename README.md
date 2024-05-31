@@ -16,6 +16,9 @@
 
 </p>
 
+La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo del mismo es facilitar la administración de libros, gestión de inventario e interacción con los usuarios. Permitiendo registrar, consultar disponibilidad, realizar prestamos y devoluciones, renovar material, reservar libros y gestionar usuarios.
+
+Temas
 La aplicacion desarrollada es un sistema de gestión de biblioteca, el objetivo del mismo es facilitar la administración de libros, gestión de inventario e interacción con los usuarios. Este sistema permite registrar nuevos libros, consultar disponibilidad, realizar prestamos y devoluciones, renovar materiales y reservar libros, y gestionar usuarios. 
 
 # Diagramas y diseños. 
