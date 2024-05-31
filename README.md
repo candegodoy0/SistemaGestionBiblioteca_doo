@@ -18,8 +18,7 @@ La aplicacion desarrollada es un sistema de gestión de biblioteca, el objetivo 
 #Diagramas y diseños. 
 
 - Diagrama de actividades.  
-![](https://drive.google.com/file/d/1Fi91Nyg-AXxIK6IswE8Bt5AHjZ2aE0uO/view?usp=sharing) 
-
+![](https://drive.google.com/file/d/1Fi91Nyg-AXxIK6IswE8Bt5AHjZ2aE0uO/view?usp=sharing)
 
 - Diagrama de secuencias. 
 ![](https://drive.google.com/file/d/17_DWxTJh3Cf8Ay9WeeRhck8EODbEsZwh/view?usp=sharing) 
