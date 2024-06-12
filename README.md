@@ -25,7 +25,7 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 - Diagrama de secuencias. 
 (https://drive.google.com/file/d/1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX/view?usp=sharing) 
 - Diagrama de clases. 
-(https://drive.google.com/file/d/1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna/view?usp=sharing)
+(https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramasDeSecuencias.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX%26export%3Ddownload)
 - Tarjetas CRC.
 (https://drive.google.com/file/d/1-A16xmbzBjWYLcg7zMTN1qbgMIqv8NQ-/view?usp=sharing) 
 - Diagrama de casos de uso. 
