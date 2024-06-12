@@ -21,15 +21,15 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 # Diagramas y diseños. 
 
 - Diagrama de actividades.
-(https://drive.google.com/file/d/1Fi91Nyg-AXxIK6IswE8Bt5AHjZ2aE0uO/view?usp=sharing)
+(https://drive.google.com/file/d/1-PmMDT38MV_8gLArJzkKGKvnaaAMk8kj/view?usp=sharing)
 - Diagrama de secuencias. 
-(https://drive.google.com/file/d/17_DWxTJh3Cf8Ay9WeeRhck8EODbEsZwh/view?usp=sharing) 
+(https://drive.google.com/file/d/1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX/view?usp=sharing) 
 - Diagrama de clases. 
-(https://drive.google.com/file/d/159KfCON19wDhgAQqwLIcBwW-6qxldRFb/view?usp=sharing)
+(https://drive.google.com/file/d/1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna/view?usp=sharing)
 - Tarjetas CRC.
-(https://drive.google.com/file/d/1RdHk5CN6bsh85FA3l9fcaYMy0Fvh2UXV/view?usp=sharing) 
+(https://drive.google.com/file/d/1-A16xmbzBjWYLcg7zMTN1qbgMIqv8NQ-/view?usp=sharing) 
 - Diagrama de casos de uso. 
-(https://drive.google.com/file/d/1E9JrOHa1rz4qZ_A0lAA8MIFLG9BQJdTW/view?usp=sharing) 
+(https://drive.google.com/file/d/1-Poo0AsGmrMlw0QlhYbQgRlb9x7Mz4_Y/view?usp=sharing) 
 - Escenrios de casos de uso. 
-(https://drive.google.com/file/d/15lHazfTZ8x05OM7ZdHhQH3BHD3d84xJZ/view?usp=sharing)
+(https://drive.google.com/file/d/1-LxckYUYYnhsHbTgv8NvLm74pAZx_0uw/view?usp=sharing)
 
