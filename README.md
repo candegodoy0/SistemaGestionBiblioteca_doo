@@ -26,4 +26,5 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 - [Diagrama de actividades.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaDeActividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-PmMDT38MV_8gLArJzkKGKvnaaAMk8kj%26export%3Ddownload)
 - [Diagramas de secuencias.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramasDeSecuencias.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX%26export%3Ddownload) 
 - [Diagramas de clases.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaDeClases.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna%26export%3Ddownload)
+- [Matriz CLAE.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MatrizCLAE.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq%26export%3Ddownload)
 
