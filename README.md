@@ -21,7 +21,7 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 # Diagramas y diseños. 
 
 - [Diagrama de clases.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaDeClases.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna%26export%3Ddownload)
-- - [Matriz CLAE.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MatrizCLAE.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq%26export%3Ddownload)
+- [Matriz CLAE.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MatrizCLAE.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq%26export%3Ddownload)
 - [Tarjetas CRC.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=TarjetasCRC.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-A16xmbzBjWYLcg7zMTN1qbgMIqv8NQ-%26export%3Ddownload) 
 - [Diagramas de casos de uso.](https://drive.google.com/file/d/1jgXRfzMZfU7-kkka08o0r4XeAbYp0lrW/view?usp=drive_link) 
 - [Escenarios de casos de uso.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=EscenariosDeCasoDeUso.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-LxckYUYYnhsHbTgv8NvLm74pAZx_0uw%26export%3Ddownload)
