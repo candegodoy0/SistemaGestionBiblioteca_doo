@@ -30,6 +30,8 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 
 </p>
 
-# Resolucion teorica POO
+# Resolucion teorica POO.
+
+-  [Patrones de diseño,  principios SOLID, herencia y composicion](https://drive.google.com/open?id=10_FRK0Ino4eeeOnF49KmDL7W2T7uyK7z&usp=drive_fs)
 
 <p>
