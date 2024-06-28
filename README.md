@@ -30,6 +30,6 @@ La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo
 
 </p>
 
-Resolucion teorica POO
+# Resolucion teorica POO
 
 <p>
