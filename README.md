@@ -1,37 +1,46 @@
-# Sistema de Gestion de Biblioteca - Diseño del sistema. 
+📚 Sistema de Gestión de Biblioteca 
 
-<p>
+Proyecto desarrollado en Java utilizando **Swing**, orientado a la gestión integral de una biblioteca. Implementa una arquitectura modular basada en el patrón **MVC (Modelo-Vista-Controlador)**, con persistencia de datos mediante archivos **TXT y XML**, y una interfaz gráfica amigable para el usuario.
 
-</p>
+## 🧩 Características principales
 
-##### Nombre alumno: Candela Yanet Godoy.
-##### Materia: Diseño Orientado a Objetos. 
-##### Carrera: Programacion en sistemas. 
-##### Profesor:Matias Velasquez.
-##### Año 2024. 
+- Registro y administración de **libros, usuarios y préstamos**
+- Gestión de **devoluciones**, **multas** y **deudas**
+- Validaciones de entrada, control de errores y navegación entre vistas con **CardLayout**
+- Interfaz gráfica construida con **formularios avanzados**, `JComboBox`, `JList`, diálogos y componentes dinámicos
 
-# Introduccion. 
+## 🛠️ Tecnologías utilizadas
 
-<p>
+- **Java**
+- **Java Swing** para interfaz gráfica
+- Arquitectura **MVC**
+- Persistencia de datos con archivos `.txt` y `.xml`
+- Estructura de paquetes: `modelo`, `controlador` y `vistas`
+- Uso de **colecciones dinámicas** (`ArrayList`, `HashMap`, etc.)
+- Programación orientada a objetos (POO) y buenas prácticas de desarrollo
 
-</p>
+## 🗂️ Estructura del proyecto
 
-La aplicación desarrollada es un Sistema de Gestión de Biblioteca, el objetivo del mismo es facilitar la administración de libros, gestión de inventario e interacción con los usuarios. Permitiendo registrar, consultar disponibilidad, realizar prestamos y devoluciones, renovar material, reservar libros y gestionar usuarios.
+src/
+├── modelo/
+├── controlador/
+├── vistas/
+└── Main.java
 
-# Diagramas y diseños. 
 
-- [Diagrama de clases.](https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaDeClases.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1pEWPD8gsU1cYdmFnFUXWjjrxLKLVaV0r%26export%3Ddownload)
-- [Matriz CLAE.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=MatrizCLAE.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq%26export%3Ddownload)
-- [Tarjetas CRC.](https://viewer.diagrams.net/?tags=%7B%7D&title=.%24TarjetasCRC.drawio.dtmp#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-QkA7nhrPOaiJl-pf_81YMX7BZTPi58i%26export%3Ddownload) 
-- [Diagramas de casos de uso.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaCasosDeUso.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1jgXRfzMZfU7-kkka08o0r4XeAbYp0lrW%26export%3Ddownload) 
-- [Escenarios de casos de uso.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=EscenariosDeCasoDeUso.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-LxckYUYYnhsHbTgv8NvLm74pAZx_0uw%26export%3Ddownload)
-- [Diagrama de actividades.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramaDeActividades.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-PmMDT38MV_8gLArJzkKGKvnaaAMk8kj%26export%3Ddownload)
-- [Diagramas de secuencias.](https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=DiagramasDeSecuencias.drawio#Uhttps%3A%2F%2Fdrive.google.com%2Fuc%3Fid%3D1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX%26export%3Ddownload)
+## 🎓 Contexto académico
 
-</p>
+Este proyecto fue desarrollado como parte de la **Tecnicatura en Programación de Sistemas**, con el objetivo de aplicar conceptos de programación orientada a objetos, diseño de interfaces, manejo de archivos y arquitectura modular.
 
-# Resolucion teorica POO.
+## 📷 Capturas de pantalla
 
--  [Patrones de diseño,  principios SOLID, herencia y composicion](https://drive.google.com/file/d/10_FRK0Ino4eeeOnF49KmDL7W2T7uyK7z/view?usp=sharing)
+![image](https://github.com/user-attachments/assets/20457fa9-b767-4ca7-82fd-966f280226e3)
 
-<p>
+## 📐 Diseño y Diagramas
+
+- [Diagrama de clases.](https://drive.google.com/file/d/1-Mo6MCG1Wfvtpl1vYN23HvXt1E1HXIna/view?usp=sharing)
+- [Matriz CLAE.](https://drive.google.com/file/d/1-Q4Fm5FPuZZfMt32lhZUA-eNY2oa2msq/view?usp=sharing)
+- [Diagramas de casos de uso.](https://drive.google.com/file/d/1jgXRfzMZfU7-kkka08o0r4XeAbYp0lrW/view?usp=sharing) 
+- [Diagrama de actividades.](https://drive.google.com/file/d/1-PmMDT38MV_8gLArJzkKGKvnaaAMk8kj/view?usp=sharing)
+- [Diagramas de secuencias.](https://drive.google.com/file/d/1-M2tfieYeK5k_2CFGG5c2uSxMjvQP0TX/view?usp=sharing)
+
