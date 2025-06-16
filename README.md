@@ -1,4 +1,4 @@
-#📚 Sistema de Gestión de Biblioteca 
+# 📚 Sistema de Gestión de Biblioteca 
 
 Proyecto desarrollado en Java utilizando **Swing**, orientado a la gestión integral de una biblioteca. Implementa una arquitectura modular basada en el patrón **MVC (Modelo-Vista-Controlador)**, con persistencia de datos mediante archivos **TXT y XML**, y una interfaz gráfica amigable para el usuario.
 
