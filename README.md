@@ -32,9 +32,6 @@ src/
 
 Este proyecto fue desarrollado como parte de la **Tecnicatura en Programación de Sistemas**, con el objetivo de aplicar conceptos de programación orientada a objetos, diseño de interfaces, manejo de archivos y arquitectura modular.
 
-## 📷 Capturas de pantalla
-
-![image](https://github.com/user-attachments/assets/20457fa9-b767-4ca7-82fd-966f280226e3)
 
 ## 📐 Diseño y Diagramas
 
